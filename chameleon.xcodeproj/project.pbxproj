@@ -13,6 +13,7 @@
 		553A4750230A7B0F0027EF0C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 553A474E230A7B0F0027EF0C /* Main.storyboard */; };
 		553A4752230A7B100027EF0C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 553A4751230A7B100027EF0C /* Assets.xcassets */; };
 		553A4755230A7B100027EF0C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 553A4753230A7B100027EF0C /* LaunchScreen.storyboard */; };
+		55ED0A00230E6B28007D3528 /* ALIN.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 55ED09FF230E6B27007D3528 /* ALIN.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		553A4751230A7B100027EF0C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		553A4754230A7B100027EF0C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		553A4756230A7B100027EF0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55ED09FF230E6B27007D3528 /* ALIN.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ALIN.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				553A4748230A7B0F0027EF0C /* AppDelegate.swift */,
 				553A474A230A7B0F0027EF0C /* SceneDelegate.swift */,
+				55ED09FF230E6B27007D3528 /* ALIN.mp3 */,
 				553A474C230A7B0F0027EF0C /* ViewController.swift */,
 				553A474E230A7B0F0027EF0C /* Main.storyboard */,
 				553A4751230A7B100027EF0C /* Assets.xcassets */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				553A4755230A7B100027EF0C /* LaunchScreen.storyboard in Resources */,
+				55ED0A00230E6B28007D3528 /* ALIN.mp3 in Resources */,
 				553A4752230A7B100027EF0C /* Assets.xcassets in Resources */,
 				553A4750230A7B0F0027EF0C /* Main.storyboard in Resources */,
 			);
